@@ -13,6 +13,19 @@ So that I can prepare for my technical interview
 
 ```
 
+## Getting Started
+
+### Installing
+
+In the root folder, run the following command to install the required npm package
+
+```
+npm install
+```
+## Running the tests
+
+Go to localhost:3000 on the browser to test the application
+
 ## Built With
 
 * [React](https://reactjs.org/) - Frontend Javascript framework
