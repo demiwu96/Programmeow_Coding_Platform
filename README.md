@@ -22,7 +22,11 @@ In the root folder, run the following command to install the required npm packag
 npm install
 ```
 ## Running the tests
+Run the following command:
 
+```
+npm start
+```
 Go to localhost:3000 on the browser to test the application
 
 ## Built With
